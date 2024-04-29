@@ -21,3 +21,7 @@ Following is the list of projects
 
 <img width="563" alt="image" src="https://github.com/dienDan10/50-days-small-html-css-javascript-challenge/assets/108723899/cec29a12-973a-4874-bef9-c3b61095cdb7">
 
+
+### Day 3 - rotating navigation
+
+<img width="1268" alt="image" src="https://github.com/dienDan10/50-days-small-html-css-javascript-challenge/assets/108723899/767d4d7d-0761-421f-809b-e9cb015418da">
