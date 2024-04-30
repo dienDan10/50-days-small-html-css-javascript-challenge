@@ -25,3 +25,7 @@ Following is the list of projects
 ### Day 3 - rotating navigation
 
 <img width="1268" alt="image" src="https://github.com/dienDan10/50-days-small-html-css-javascript-challenge/assets/108723899/767d4d7d-0761-421f-809b-e9cb015418da">
+
+### Day 4 - Hidden search field
+
+<img width="389" alt="image" src="https://github.com/dienDan10/50-days-small-html-css-javascript-challenge/assets/108723899/e03e0204-22bc-48ca-bdb5-eccba906c92e">
