@@ -29,3 +29,7 @@ Following is the list of projects
 ### Day 4 - Hidden search field
 
 <img width="389" alt="image" src="https://github.com/dienDan10/50-days-small-html-css-javascript-challenge/assets/108723899/e03e0204-22bc-48ca-bdb5-eccba906c92e">
+
+### Day 5 - Blurry Loading Image
+
+<img width="1231" alt="image" src="https://github.com/dienDan10/50-days-small-html-css-javascript-challenge/assets/108723899/01dca77a-8452-47a5-9c12-58b5e4a1c5b8">
