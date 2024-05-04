@@ -33,3 +33,7 @@ Following is the list of projects
 ### Day 5 - Blurry Loading Image
 
 <img width="1231" alt="image" src="https://github.com/dienDan10/50-days-small-html-css-javascript-challenge/assets/108723899/01dca77a-8452-47a5-9c12-58b5e4a1c5b8">
+
+### Day 5 - Scroll Animation
+
+<img width="466" alt="image" src="https://github.com/dienDan10/50-days-small-html-css-javascript-challenge/assets/108723899/474585dd-838e-4f8a-9adc-436a46df9ae1">
